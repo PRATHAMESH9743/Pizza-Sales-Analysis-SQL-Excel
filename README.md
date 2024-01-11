@@ -257,9 +257,32 @@ step1. create a new column as order day and use the formula (text) and extract t
 ![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/5c9d13b2-4c98-4f7e-940b-b89b4c96f060)
 
 ## PIVOT TABLE
-![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/afc28638-1663-45b4-a186-7371fb419124)
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/2723cab8-7d0b-4caf-8193-f329f48fdd8c)
 
+KPI'S CREATION
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/30fb911c-3b9b-4ea5-b19b-c8b33331ed2f)
 
+## DASHBOARD CREATION
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/b90e2900-a3c0-45a4-913d-c954e057ab01)
 
+## B. Daily Trend for Total Orders.  # C. Hourly Trend for Orders
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/fe892789-1482-41dd-95e0-554b43f91bae)
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/2cba176a-e32c-4435-883e-0cd519542eca)
 
+## D. % of Sales by Pizza Category.  # E. % of Sales by Pizza Size  # F. Total Pizzas Sold by Pizza Category
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/ffebe542-a1ee-4c6a-982d-f7971985ba41)
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/ddc7696e-d42d-4464-928d-63aa7fe30311)
+
+## G. Top 5 Best Sellers by Total Pizzas Sold. # H. Bottom 5 Best Sellers by Total Pizzas Sold
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/f4471b4d-3bf3-4852-872d-0d6b456c1a73)
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/fcc91e9d-d032-4b20-a281-a0ca7aa318f0)
+
+## INSIGHTS
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/1b3b73f9-aa25-4c87-b9b5-6199d594501e)
+
+## DASHBOARD OVERVIEW
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/f3465287-0f17-45e8-9d4b-03db56ef3222)
+
+## COMPLETE DASHBOARD
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/1e22e22b-9f7a-4ae5-8690-034aea386857)
 
