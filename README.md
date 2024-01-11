@@ -259,7 +259,7 @@ step1. create a new column as order day and use the formula (text) and extract t
 ## PIVOT TABLE
 ![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/2723cab8-7d0b-4caf-8193-f329f48fdd8c)
 
-KPI'S CREATION
+## KPI'S CREATION
 ![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/30fb911c-3b9b-4ea5-b19b-c8b33331ed2f)
 
 ## DASHBOARD CREATION
