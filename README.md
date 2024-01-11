@@ -1,6 +1,6 @@
 # PIZZA SALES ANALYSIS - SQL SERVER / EXCEL 2023
 
-This project delves deep into the realm of data analysis, utilizing SQL and Power BI to uncover crucial insights into Pizza sales. The featured eye-catching dashboards aid the pizza business in making informed decisions and strategic workforce planning, providing substantial benefits to the business.
+This project delves deep into the realm of data analysis, utilizing SQL and EXCEL to uncover crucial insights into Pizza sales. The featured eye-catching dashboards aid the pizza business in making informed decisions and strategic workforce planning, providing substantial benefits to the business.
 
 Source Data:
 pizza sales.csv
@@ -238,3 +238,28 @@ GROUP BY pizza_name
 ORDER BY Total_Orders ASC;
 ```
 ![image](https://github.com/PRATHAMESH9743/PIZZA-SALES-ANALYSIS/assets/154798147/c96c898d-bad6-41af-9f42-9610626298b6)
+
+
+## Connecting Excel to MS SQL Server
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/bbd42149-7046-4a70-b4e9-693ae7ffd6b5)
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/183f072e-a2d4-4b55-b1f0-b3e2babcb696)
+
+
+## Data Cleaning
+Now we have to clean the data, here we will select the entire column of pizza size and replace the values , we will find the M size in the pizza size coulmn and replace it with Medium and same goes for the L and S , change them to Large and Regular  
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/40840b6d-1bdd-401d-9515-7a18bdf1e213)
+
+## Data processing 
+in order to calculate the order day, we will select the entire order date column and extract the order day from the order date 
+
+step1. create a new column as order day and use the formula (text) and extract the order day from order date
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/6e8d5450-c681-4325-8a01-dd039adf417d)
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/5c9d13b2-4c98-4f7e-940b-b89b4c96f060)
+
+## PIVOT TABLE
+![image](https://github.com/PRATHAMESH9743/Pizza-Sales-Analysis-SQL-Excel/assets/154798147/afc28638-1663-45b4-a186-7371fb419124)
+
+
+
+
+
