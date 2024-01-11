@@ -37,7 +37,7 @@ Analyze the key indications for our pizza sales data to gain insights into our b
 
    Create a bar chart that displays the daily trend of total orders over a specific time period. this chart will help us identify any patterns or fluctuations in order volumes on a daily 
    basis.
-3. Monthly Trend for Total Orders:
+3. HourlyTrend for Total Orders:
 
    Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high order activity.
 5. Percentage of Sales by Pizza Category:
