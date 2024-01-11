@@ -146,11 +146,12 @@ GROUP BY DATENAME(DW, order_date);
 ```
 ![image](https://github.com/PRATHAMESH9743/PIZZA-SALES-ANALYSIS/assets/154798147/26b7e461-2433-4a1d-a7fa-d511410d320f)
 
-## C. Monthly Trend for Orders
+## C.Hourly Trend for Orders
 ```SQL
-select DATENAME(MONTH, order_date) as Month_Name, COUNT(DISTINCT order_id) as Total_Orders
+SELECT DATEPART(HOUR, order_time) as order_hours, COUNT(DISTINCT order_id) as total_orders
 from pizza_sales
-GROUP BY DATENAME(MONTH, order_date);
+group by DATEPART(HOUR, order_time)
+order by DATEPART(HOUR, order_time);
 ```
 ![image](https://github.com/PRATHAMESH9743/PIZZA-SALES-ANALYSIS/assets/154798147/e286e688-ca46-4980-8fc3-e14fee86fa08)
 
