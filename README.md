@@ -1,4 +1,4 @@
-# PIZZA SALES ANALYSIS - SQL SERVER / EXCEL 2023
+# Pizza Sales Analysis - SQL SERVER / EXCEL
 
 This project delves deep into the realm of data analysis, utilizing SQL and EXCEL to uncover crucial insights into Pizza sales. The featured eye-catching dashboards aid the pizza business in making informed decisions and strategic workforce planning, providing substantial benefits to the business.
 
